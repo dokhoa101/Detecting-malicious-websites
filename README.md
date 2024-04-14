@@ -18,7 +18,7 @@ Welcome to the "Detecting Malicious Website" extension! This browser extension h
 
  Clone this repository:
    ```bash
-   git clone https://github.com/your-username/detecting-malicious-website-extension.git](https://github.com/dokhoa101/Detecting-malicious-websites.git
+   git clone https://github.com/dokhoa101/Detecting-malicious-websites.git
 
 
 
