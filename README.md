@@ -8,17 +8,17 @@ Welcome to the "Detecting Malicious Website" extension! This browser extension h
 - **Phishing Detection:** Detect phishing attempts and warn users.
 - **Malware Analysis:** Analyze websites for signs of malware presence.
 
-
-
- Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/detecting-malicious-website-extension.git](https://github.com/dokhoa101/Detecting-malicious-websites.git
-
 ## Upcoming Features
 
 - **Security Analytics:** Display reports on scanned websites and their level of threat.
 - **Download Blocking:** Block potentially harmful downloads from websites.
 - **Redirect Prevention:** Prevent browser redirects to malicious websites.
 - **Real-time Protection:** Receive warnings before visiting suspicious websites.
+
+
+ Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/detecting-malicious-website-extension.git](https://github.com/dokhoa101/Detecting-malicious-websites.git
+
 
 
